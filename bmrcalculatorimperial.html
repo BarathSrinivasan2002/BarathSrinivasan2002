@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <title>BMR calculator</title>
+  <style type="text/css">
+    fieldset {
+      width: 500px;
+      border-radius: 20px;
+      background: rgb(216, 140, 90);
+      height: 500px;
+    }
+  
+    legend {
+      background: #222;
+      color: #EEE;
+      padding: 10px;
+      font-size: 1.5em;
+      border-radius: 10px;
+      letter-spacing: 3px;
+      font-variant: small-caps;
+    }
+  
+    label,
+    input {
+      width: 200px;
+      margin: 5px;
+      padding: 3px;
+    }
+  
+    label {
+      font-weight: bold;
+      font-size: 12pt;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+  </head>
+
+<body>
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks"><a href="bmrcalculatorimperial.html">imperial</a></button>
+  <button class="tablinks"><a href="bmrcalculator.html">metric</a></button>
+</div>
+
+
+
+<!-- Tab content metric -->
+<div id="metric" class="tabcontent">
+  <form method="post" action="#" name="bmr">
+    <fieldset>
+      <legend>BMR calculator for metric</legend>
+      <label for="">Enter Weight in kgs</label>
+      <input type="text" id="weight" value="" size="20" placeholder="Enter weight in kgs" name="weight" required>
+      <br>
+      <label for="">Enter Height in cms</label>
+      <input type="text" id="height" value="" size="20" placeholder="Enter height in cms" name="height" required>
+      <br>
+      <label for="">Enter age in years</label>
+      <input type="text" id="age" value="" size="20" placeholder="Enter age in years" name="age" required>
+      <br>
+      <label for="">Your Gender</label>
+      <select name="gender" id="gender">
+        <option value="male">male</option>
+        <option value="female">female</option>
+      </select>
+      <br>
+<form action="">
+
+  <input type="radio" name="radio1" id="activity_level" value="1.2" checked>I am sedentary(little or no exercise)<br>
+  <input type="radio" name="radio1" id="activity_level" value="1.375">I am lightly active(1-3 times a week)<br>
+  <input type="radio" name="radio1" id="activity_level" value="1.55">I am moderately active(3-5 times a week)<br>
+  <input type="radio" name="radio1" id="activity_level" value="1.725">I am very active(6-7 times a week)<br>
+  <input type="radio" name="radio1" id="activity_level" value="1.9">I am super active(2x times everyday )<br>
+
+</form>
+
+      <input type="reset" value="RESET">
+      <input type="button" value="calculate BMR" onclick="calculateBMRmetric();" id="calc">
+      <br>
+      <label for="">BMR</label>
+      <input type="text" value="" size="20" placeholder="Result-BMR" name="bmr" id="bmr" readonly>
+      <br>
+      <label for=""> daily calorie intake</label>
+      <input type="text" value="" size="20" placeholder="Calorie-intake" name="Calorie-intake" id="calIntake" readonly>
+    </fieldset>
+  </form>
+  
+ 
+</div>
+
+
+</body>
+
+<script src="assignment1.js"></script>
+
+</html>
