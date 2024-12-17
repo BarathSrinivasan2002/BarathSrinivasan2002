@@ -25,17 +25,17 @@ I am a passionate **Software Developer** and **AI Enthusiast** currently pursuin
 ### **1. Facial Recognition System**
 - Built a **facial recognition and identification system** for a law enforcement company using Python, TensorFlow, and clustering techniques (KMeans).
 - Preprocessed datasets, applied **dimensionality reduction** (PCA/t-SNE), and trained a neural network for optimal predictions.  
-🔗 [Project Link or Repository Placeholder]
+🔗 [Facial Recognition System](https://github.com/BarathSrinivasan2002/UnsupervisedLearningFacialRecognitionClusteringModel)
 
 ### **2. Accident Predictor**
 - Developed an end-to-end **machine learning model** to predict the likelihood of fatal collisions.  
 - Utilized **data preprocessing**, feature engineering, and visualization libraries like Scikit-Learn and Matplotlib.  
-🔗 [Project Link or Repository Placeholder]
+🔗 [Accident Predictor](https://github.com/SalmaChaaban/COMP247_End_to_End_Project)
 
 ### **3. Netflix Movie Database**
 - Designed and implemented a relational database using **Oracle PL/SQL**.  
 - Automated features like enforcing age restrictions, managing indexes, and query optimizations.  
-🔗 [Project Link or Repository Placeholder]
+🔗 [Netflix Movie Database](https://github.com/BarathSrinivasan2002/Netflix-Database)
 
 ---
 
