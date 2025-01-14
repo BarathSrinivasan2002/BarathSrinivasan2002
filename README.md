@@ -1,6 +1,3 @@
-Here’s an improved **GitHub Profile README** using the details from your resume:
-
----
 
 # 👋 Hi, I’m **Barath Srinivasan**
 
