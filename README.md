@@ -7,7 +7,7 @@ I am a passionate **Software Developer** and **AI Enthusiast** currently pursuin
 
 ## 🚀 **About Me**
 - 🔍 **Interest**:  Software Development | Artificial Intelligence | Data Analytics
-- 🎓 **Education**: Software Engineering Technology - Artificial Intelligence (GPA: 3.5/4)  
+- 🎓 **Education**: Software Engineering Technology - Artificial Intelligence (GPA: 3.6/4)  
 - 🔧 **Tech Stack**: Python, Java, C#, SQL, TensorFlow, Keras, OpenCV, Flask, and Scikit-Learn  
 - 📊 **Skills**:  
    - Machine Learning and Deep Learning (Supervised/Unsupervised Learning, Neural Networks)  
