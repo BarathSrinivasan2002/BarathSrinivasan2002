@@ -1,70 +1,81 @@
+# Hi there, I'm Barath Srinivasan! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# 👋 Hi, I’m **Barath Srinivasan**
-
-I am a passionate **Software Developer** and **AI Enthusiast** currently pursuing my **Software Engineering Technology - Artificial Intelligence** (Advanced Diploma) at **Centennial College**. I enjoy building innovative software solutions, exploring **machine learning** concepts, and creating impactful projects in **web development** and **AI**.
-
----
-
-## 🚀 **About Me**
-- 🔍 **Interest**:  Software Development | Artificial Intelligence | Data Analytics
-- 🎓 **Education**: Software Engineering Technology - Artificial Intelligence (GPA: 3.6/4)  
-- 🔧 **Tech Stack**: Python, Java, C#, SQL, TensorFlow, Keras, OpenCV, Flask, and Scikit-Learn  
-- 📊 **Skills**:  
-   - Machine Learning and Deep Learning (Supervised/Unsupervised Learning, Neural Networks)  
-   - Data Analysis and Visualization (Pandas, Matplotlib, Seaborn)  
-   - Web Development (Flask, HTML/CSS, JavaScript)  
-   - Databases: Oracle, MS SQL Server, PL-SQL  
-   - Tools: Docker, Git, Power BI, Visual Studio  
+<p align="center">
+  <a href="https://github.com/BarathSrinivasan2002">
+    <img src="https://komarev.com/ghpvc/?username=BarathSrinivasan2002&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="https://github.com/BarathSrinivasan2002?tab=followers">
+    <img src="https://img.shields.io/github/followers/BarathSrinivasan2002?label=Followers&style=flat-square&color=blue&logo=github" alt="github followers"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ **Projects**
-### **1. Facial Recognition System**
-- Built a **facial recognition and identification system** for a law enforcement company using Python, TensorFlow, and clustering techniques (KMeans).
-- Preprocessed datasets, applied **dimensionality reduction** (PCA/t-SNE), and trained a neural network for optimal predictions.  
-🔗 [Facial Recognition System](https://github.com/BarathSrinivasan2002/UnsupervisedLearningFacialRecognitionClusteringModel)
+## 👨‍💻 About Me
 
-### **2. Accident Predictor**
-- Developed an end-to-end **machine learning model** to predict the likelihood of fatal collisions.  
-- Utilized **data preprocessing**, feature engineering, and visualization libraries like Scikit-Learn and Matplotlib.  
-🔗 [Accident Predictor](https://github.com/SalmaChaaban/COMP247_End_to_End_Project)
+I'm a Software Engineering Technology student at **Centennial College**, focusing on **Artificial Intelligence** 🧠. I'm passionate about building cool things with code, especially in Machine Learning and Computer Vision.
 
-### **3. Netflix Movie Database**
-- Designed and implemented a relational database using **Oracle PL/SQL**.  
-- Automated features like enforcing age restrictions, managing indexes, and query optimizations.  
-🔗 [Netflix Movie Database](https://github.com/BarathSrinivasan2002/Netflix-Database)
+* 🎓 Studying **Software Engineering Technology - AI** (Advanced Diploma) at Centennial College (Expected Apr 2025).
+* 🤖 Previously worked as a **Machine Learning Intern** at Health Care Systems R&A, specializing in Computer Vision and Pose Estimation.
+* 💡 Interested in AI/ML, Data Engineering, Cloud Technologies, and building useful applications.
+* 🌱 Always learning and exploring new technologies!
+* 📫 How to reach me: [barathsrinivasan2002@gmail.com](mailto:barathsrinivasan2002@gmail.com)
+* 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/barath-s02)
 
 ---
 
-## 💼 **Experience**
-### **Software Engineering Intern**  
-**Health Care Systems R&A** | Waterloo, ON | May 2023 - Present  
-- Led a team to develop **computer vision models** (pose estimation, landmark detection) using **TensorFlow, Keras, and OpenCV**.  
-- Achieved **82% accuracy** with MobileNetV2 and deployed models into live video feeds using **Flask API** and Tkinter.  
-- Conducted technical interviews and managed real-world datasets.
+## 🛠️ My Tech Stack
+
+Here are some of the technologies I enjoy working with:
+
+* **Programming Languages:** Python, Java, SQL (PL/SQL)
+* **AI/ML & Data Science:** TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, OpenCV, PySpark, Spark MLlib
+* **Web Frameworks:** Flask, FastAPI
+* **Databases:** Oracle, PostgreSQL, MS-SQL Server, MongoDB
+* **Cloud Platforms:** AWS (Lambda, Bedrock, SageMaker), GCP (Vertex AI), Azure (Fundamentals Certified)
+* **Tools:** Git, Docker, Power BI, FAISS, Pinecone
 
 ---
 
-## 🌱 **What I’m Learning**
-- Improving my skills in **Deep Learning**, **NLP**, and **AI Frameworks** like TensorFlow and Keras.  
-- Exploring advanced **Web Development** frameworks and tools.
+## ✨ Featured Projects
+
+Here are a couple of projects I'm proud of:
+
+1.  **Centennial College Program Recommender:**
+    * Built an award-winning system using AI (Cohere/FAISS, RankNet) and an ETL pipeline to recommend college programs.
+    * Used vector embeddings for smart searching and deployed it with FastAPI/Streamlit.
+    * *Tech:* Python, FastAPI, MongoDB, GCP Vertex AI, FAISS, RankNet, Cohere, Groq API.
+
+2.  **Accident Predictor Project:**
+    * Developed a model to predict accident severity using Toronto collision data.
+    * Cleaned data, engineered features, and trained a Decision Tree model (92% accuracy).
+    * *Tech:* Python, Flask, Scikit-Learn, Pandas, Numpy.
+
+3.  **Pose Estimation (Internship):**
+    * Led development of CNN models for computer vision pose estimation.
+    * Used MediaPipe, TensorFlow/Keras, and fine-tuned models like MobileNet V2.
+    * Integrated models into live video feeds using Flask.
+    * *Tech:* Python, TensorFlow, Keras, OpenCV, MediaPipe, Flask, Tkinter.
+
+➡️ Check out my repositories for more projects!
 
 ---
 
-## 🤝 **Let’s Collaborate**
-I’m open to collaborating on projects involving:  
-- Artificial Intelligence and Machine Learning  
-- Full-Stack Web Development  
-- Data Analysis and Visualization  
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BarathSrinivasan2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Barath's GitHub Stats" />
+  &nbsp;&nbsp; <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarathSrinivasan2002&layout=compact&theme=radical&hide_border=true" alt="Barath's Top Languages" />
+</p>
 
 ---
 
-## 📫 **How to Reach Me**
-- **Email**: [sam.b.srinivasan2002@gmail.com](mailto:sam.b.srinivasan2002@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/barath-srinivasan](https://www.linkedin.com/in/barath-srinivasan-b78b8b1ab/)  
-- **GitHub**: [github.com/BarathSrinivasan2002](https://github.com/BarathSrinivasan2002)  
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BarathSrinivasan2002/BarathSrinivasan2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
-Let’s connect and build something **amazing together!** 🚀
-
+Thanks for visiting my profile! 😄
