@@ -68,14 +68,6 @@ Here are a couple of projects I'm proud of:
   &nbsp;&nbsp; <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarathSrinivasan2002&layout=compact&theme=radical&hide_border=true" alt="Barath's Top Languages" />
 </p>
 
----
 
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BarathSrinivasan2002/BarathSrinivasan2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 Thanks for visiting my profile! 😄
