@@ -13,9 +13,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering Technology student at **Centennial College**, focusing on **Artificial Intelligence** 🧠. I'm passionate about building cool things with code, especially in Machine Learning and Computer Vision.
+I'm a Software Engineering Technology graduate at **Centennial College**, focused on **Artificial Intelligence** 🧠. I'm passionate about building cool things with code, especially in Machine Learning and Computer Vision.
 
-* 🎓 Studying **Software Engineering Technology - AI** (Advanced Diploma) at Centennial College (Expected Apr 2025).
+* 🎓 Studied **Software Engineering Technology - AI** (Advanced Diploma) at Centennial College (Apr 2025).
+* 🎓 Studying **Computer Science** at Ontario Tech University.
 * 🤖 Previously worked as a **Machine Learning Intern** at Health Care Systems R&A, specializing in Computer Vision and Pose Estimation.
 * 💡 Interested in AI/ML, Data Engineering, Cloud Technologies, and building useful applications.
 * 🌱 Always learning and exploring new technologies!
